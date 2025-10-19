@@ -1,0 +1,19 @@
+{
+  "name": "js-crash-practice",
+  "version": "0.1.0",
+  "description": "Short JS practice exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Tests disabled\"",
+    "start": "live-server --port=8080"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "keywords": [
+    "javascript",
+    "exercises",
+    "practice"
+  ],
+  "license": "MIT"
+}
